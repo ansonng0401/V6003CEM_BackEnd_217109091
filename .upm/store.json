@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"e8f856290d7bded42187e88317eae66c","lockfileHash":"247bc2e2ed473e2f4348ee22b7d73d1f","guessedImports":["koa-body","mime-types","jsonschema","koa-router","request","koa-bodyparser","uuid","mongodb","role-acl","passport-http","koa-passport","sequelize"],"guessedImportsHash":"30fe590b7f1be090d6c88ebc966eea32"}}}
